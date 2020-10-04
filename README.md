@@ -1,0 +1,1 @@
+This is a simple docker practice with simple dockerfile and docker compose file.
